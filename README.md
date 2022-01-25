@@ -1,6 +1,4 @@
-# Aprende a Diseñar Formularios Profesionales con CSS Grid!
-### [Tutorial:  ]()
+# Formulario Profesional con CSS Grid!
 
-![Aprende a Diseñar Formularios Profesionales con CSS Grid!](https://raw.githubusercontent.com/falconmasters/formulario-css-grid/master/img/thumb.png)
+![Formulario desarrollado con html,css,Js](https://raw.githubusercontent.com/falconmasters/formulario-css-grid/master/img/thumb.png)
 
-Por: [FalconMasters](http://www.falconmasters.com)
